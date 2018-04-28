@@ -1,4 +1,4 @@
-# HMI
+## HMI (Human Machine Interfaces)
 Next Generation Human Machine Interfaces
 
 The term Human-Machine Interface (“HMI”) describes the methods in which people interact with machines, and is a subset of the broader User Interface (“UI”) field.
@@ -11,7 +11,7 @@ New Age Human Machine Interfaces –
 -	Touch & Voice 
 -	Gestures
 -	Gaze and Emotions
--	Conversational UI (Chatbots, virtual assistants, voice assistants)
+-	[Conversational UI](https://github.com/hmi-digital/Converstional_UI) (Chatbots, virtual assistants, voice assistants)
 -	 Augmented Reality, Virtual Reality, Mixed Reality
 -	Brain Computer Interface (BCI)
 -	Haptic Touch
