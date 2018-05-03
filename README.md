@@ -1,4 +1,4 @@
-## [HMI](https://hmi-digital.github.io/) (Human Machine Interfaces)
+## <a href="https://hmi-digital.github.io/" target="_blank">HMI</a>(Human Machine Interfaces)
 
 Next Generation Human Machine Interfaces
 
@@ -12,7 +12,7 @@ New Age Human Machine Interfaces –
 -	Touch & Voice 
 -	Gestures
 -	Gaze and Emotions
--	[Conversational UI](https://github.com/hmi-digital/Conversational_UI) (Chatbots, virtual assistants, voice assistants)
+-	<a href="https://github.com/hmi-digital/Conversational_UI" target="_blank">Conversational UI</a> (Chatbots, virtual assistants, voice assistants)
 -	 Augmented Reality, Virtual Reality, Mixed Reality
 -	Brain Computer Interface (BCI)
 -	Haptic Touch
