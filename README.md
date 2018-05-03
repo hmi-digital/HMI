@@ -12,7 +12,7 @@ New Age Human Machine Interfaces –
 -	Touch & Voice 
 -	Gestures
 -	Gaze and Emotions
--	[Conversational UI](https://github.com/hmi-digital/Converstional_UI) (Chatbots, virtual assistants, voice assistants)
+-	[Conversational UI](https://github.com/hmi-digital/Conversational_UI) (Chatbots, virtual assistants, voice assistants)
 -	 Augmented Reality, Virtual Reality, Mixed Reality
 -	Brain Computer Interface (BCI)
 -	Haptic Touch
